@@ -1,3 +1,4 @@
 wpu rencana konten
 
 video javascript
+ES6
